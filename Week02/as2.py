@@ -1,1 +1,4 @@
-# Assignment was a screenshot of Pythin IDLE. No codes assignement for this week.
+# Assignment was a screenshot of Pythin IDLE.
+
+name = raw_input("Enter Your name: ")
+print name
